@@ -38,7 +38,7 @@ namespace LeapYearProject
         static void Main(string[] args)
         {
             using (var reader = new StreamReader(InputPath))
-            using (var csv = new CsvReader(reader))
+            using (var csv = new CsvReader(reader, System.Globalization.CultureInfo.CurrentCulture))
             {
                 csv.Configuration.PrepareHeaderForMatch = (string header, int index) => header.ToLower();
                 var records = csv.GetRecords<Input>().ToList();
@@ -55,7 +55,7 @@ namespace LeapYearProject
                 }
                 // writes prepared data
                 using (var writer = new StreamWriter(OutputPath))
-                using (var csvwriter = new CsvWriter(writer))
+                using (var csvwriter = new CsvWriter(writer, System.Globalization.CultureInfo.CurrentCulture))
                 {
                     csvwriter.WriteRecords(results);
                 }

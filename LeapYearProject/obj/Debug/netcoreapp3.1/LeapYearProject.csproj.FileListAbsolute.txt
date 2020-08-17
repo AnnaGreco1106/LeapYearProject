@@ -6,3 +6,12 @@ C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapY
 C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.AssemblyInfoInputs.cache
 C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.AssemblyInfo.cs
 C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.exe
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.deps.json
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.runtimeconfig.json
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.runtimeconfig.dev.json
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.dll
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.pdb
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.csproj.CopyComplete
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.dll
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.pdb
