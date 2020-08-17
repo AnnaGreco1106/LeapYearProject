@@ -1,0 +1,8 @@
+C:\Users\stllb\source\repos\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.exe
+C:\Users\stllb\source\repos\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.csprojAssemblyReference.cache
+C:\Users\stllb\source\repos\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.AssemblyInfoInputs.cache
+C:\Users\stllb\source\repos\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.AssemblyInfo.cs
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.csprojAssemblyReference.cache
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.AssemblyInfoInputs.cache
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\obj\Debug\netcoreapp3.1\LeapYearProject.AssemblyInfo.cs
+C:\Users\stllb\git\LeapYearProject\LeapYearProject\bin\Debug\netcoreapp3.1\LeapYearProject.exe
